@@ -1,0 +1,322 @@
+@media only screen and (max-width: 600px) {
+    .heading {
+        display: flex;
+        justify-content: space-between;
+        text-align: center;
+    }
+    .heading-info img {
+        margin-right: 7px;
+        width: 39px;
+    }
+    .page-container {
+        display: none;
+    }
+    .heading-info p{
+        font-size: 24px;
+        font-weight: 800;
+    }
+    header,main{
+        max-width: 600px;
+        margin: 18px auto;
+        margin: auto 15px;
+    }
+    .picture1{
+        display: block;
+        height: 24px;
+        width: 24px;
+        margin-top: 30px;
+    }
+
+    .pool{
+        height: 500px;
+    }
+    .pool-h1{
+        font-size: 24px;
+        margin-top :10px ;
+    }
+    .pool-text{
+        font-size: 13.5px;
+        width: 320px;
+        margin: 18px auto;
+    }
+
+    .pool-info{
+        margin: 0;
+    }
+    .btn1{
+        width: 190px;
+    }
+    .where-go, .select-when,.find-now,.select-type{
+        margin-left: 10px;
+        font-size: 15px;
+    }
+    .select-when,.find-now,.select-type{
+        margin-top: 0;
+    }
+    .popular-text h1{
+        font-size: 20px;
+    }
+    .popular-text{
+        width: 100%;
+        margin: 30px auto;
+    }
+    .popular-para,li{
+        font-size: 14px;
+    }
+    .popular-img{
+        height: 382px;
+        width: 100%;
+    }
+    .popular-info{
+        display: flex;
+        flex-direction: column;
+        margin: 60px auto;
+    }
+    .country-text h1{   
+        margin: 0;
+        font-size: 20px;
+        font-weight: 800;   
+    }
+    .country-text p{
+        width: 350px;
+        margin-bottom: 40px;
+    }   
+    .num1{
+        display: block;
+        max-width: 600px;
+    }
+    .num2{
+        display: block;
+        max-width: 600px;
+    }
+    .num3{
+        display: block;
+        max-width: 600px;
+    }
+    .grid{
+        display: block;
+        max-width: 600px;
+    }
+    .grid img{
+        margin: 8px auto;
+    }
+    .info-heading{
+        font-size: 20px;
+    }
+    .first, .second , .third{
+        height: 300px;
+        width: 85%;
+        padding: 15px;
+        margin: 2px auto;
+    }
+    .first svg, .second svg, .third svg{
+        height: 48px;
+        width: 48px;
+    }
+    .info-para{
+        color: #5A5A5D;
+        font-size: 14px;
+        font-weight: 400;
+        line-height: 26px;
+        width: 310px;
+    }
+    .first-flex{
+        display: flex;
+        flex-direction: column;
+        margin: 25px auto;
+    }
+
+    .destination-text p{
+        margin: 25px auto;
+    }
+    .details-name{
+        font-size: 20px;
+        font-weight: 800;
+        margin-top: 0;
+    }
+    .details-para{
+        font-size: 14px;
+        max-width: 295px;
+        margin: 0;
+    }
+    .details-price{
+        font-size: 16px;
+    }
+    .details svg ,.details p{
+        font-size: 16px;
+    }
+    .deal1-info,.deal2-info,.deal3-info{
+        height: 310px;
+        width: 290px;
+    }
+    .deal1-info,.deal3-info{
+        left: 6.3%;
+        right: 6.3%;
+        top: 30%;
+        width: 75%;
+    }
+    .deal2-info{
+        left: 6.3%;
+        right: 6.3%;
+        top: 30%;
+        width: 75%;
+    }
+    .details{
+        display: flex;
+        flex-direction: column;
+    }
+    .details p{
+        margin-top: 0;
+    }
+    .deal-option{
+        display: flex;
+        justify-content: space-between;
+    }
+    .deal-option p{
+        margin-right: 10px;
+    }
+    .package-btn{
+        display: none;
+    }
+    .deal-discount{
+        height: 1800px;
+    }
+    .video-text h1{
+        margin: 0;
+        font-size: 20px;
+        width: 230px;
+        line-height: 28px;
+    }
+    .video-para,.video-text li{
+        font-size: 14px;
+        width: 100%;
+    }
+    .video-text{
+        width: 100%;
+        margin: 20px auto;
+    }
+    .video-img{
+        height: 200px;
+        width: 100%;
+    }
+    .video-info{
+        display: flex;
+        flex-direction: column;
+    }
+    .video-new h2{
+        font-size: 20px;
+        width: 220px;
+    }
+    .newsletter{
+        width: 86%;
+        top: 80%;
+        left: 29px;
+    }
+    .news1 i{
+        margin-right: 20px;
+        margin-bottom: 20px;
+    }
+    .news-links i{
+        margin-right: 5px;
+    }
+    .news-links{
+        font-size: 18px;
+        top: 63.5%;
+        left: 75%;
+        margin: auto 8px;
+    }
+
+    .nature-text{
+        width: 85%;
+        padding: 30px;
+        /* padding-left: 60px; */
+        border-radius: 16px;
+        height: 325px;
+        margin-bottom: 30px;
+        margin-top: -40px;
+    }
+    .nature-form input,.nature-form button{
+        width: 286px;
+    }
+    .nature-text hr{
+        width: 296px;
+    }
+    .nature-container{
+        display: flex;
+        flex-direction: column;
+    }
+    .nature-img{
+        height: 300px;
+        width: 100%;
+    }
+    .nature-para{
+        font-size: 14px;
+        width: 320px;
+        margin-bottom: 20px;
+    }
+    .saving{
+        width: 210px;
+        height: 80px;
+        transform: rotate(-28deg);
+        padding: 90px auto;
+        text-align: center;
+    }
+    .saving-h1{
+        font-size: 22px;
+        font-weight: 800;
+    }
+    .saving-p{
+        font-size: 17px;
+        margin-top: -60px;
+    }
+    .discount{
+        position: absolute;
+        right: 25px;
+    }
+    .footer{
+        background: rgba(19, 19, 24, 0.05);
+        height: 370px;
+        max-width: 100%;
+    }
+    .footer-container{
+        min-height: 50px;
+        font-weight: 800;
+        display: flex;
+        font-size: 25px;
+        align-items: center;
+        margin-top: 60px;
+        margin-bottom: 0;
+    }
+    .footer-container img{
+        width: 25px;
+        object-fit: cover;
+        margin-right: 18px;
+    }
+    .footer-para{
+        font-weight: 400;
+        font-size: 12px;
+        color: #5A5A5D;
+        width: 300px;
+        margin-top: -20px;
+    }
+    .footer-logo{
+        font-size: 25px;
+        margin: 10px auto;
+    }
+    .footer-logo i{
+        margin: 8px;
+    }
+    hr {
+        border: none; 
+        border-top: 1px solid #585858; 
+        width: 90%;
+        height: 1px;
+        margin: 15px auto;
+    }
+    .footer-last{
+        font-weight: 400;
+        font-size: 12px;
+        color: #5A5A5D;
+    }
+
+}

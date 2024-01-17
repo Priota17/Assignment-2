@@ -298,22 +298,22 @@ main{
     top: 13.5%;
 }
 .deal1{
-    background-image: url('../Images/Group\ 39.png');
+    background-image: url('Images/Group\ 39.png');
     height: 550px;
     background-repeat: no-repeat;
     background-size: cover;
     border-radius: 15px;
     margin: 20px auto;
-    /* padding: 25px; */
+   
 }
 .deal2{
-    background-image: url('../Images/Group\ 40.png');
+    background-image: url('Images/Group\ 40.png');
     height: 550px;
     background-repeat: no-repeat;
     background-size: cover;
     border-radius: 15px;
     margin: 20px auto;
-    /* padding: 25px; */
+   
 }
 .details{
     display: flex;
@@ -327,7 +327,7 @@ main{
     margin-right: 50px;
 }
 .deal3{
-    background-image: url('../Images/Group\ 41.jpg');
+    background-image: url('Images/Group\ 41.jpg');
     height: 550px;
     background-repeat: no-repeat;
     background-size: cover;

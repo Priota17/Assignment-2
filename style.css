@@ -51,7 +51,7 @@ main{
     margin: 30px auto;
 }
 .pool{
-    background-image: linear-gradient(180deg, rgba(19, 19, 24, 0.80) 0%, rgba(19, 19, 24, 0.00) 100%),url('../Images/Group\ 39.png');
+    background-image: linear-gradient(180deg, rgba(19, 19, 24, 0.80) 0%, rgba(19, 19, 24, 0.00) 100%),url('Images/Group\ 39.png');
     height: 650px;
     width: 100%;
     margin-top: 0px;
@@ -334,7 +334,7 @@ main{
     background-position: bottom;
     border-radius: 15px;
     margin: 20px auto;
-    /* padding: 30px; */
+  
 }
 .package-btn{
     background-color: #FF5400;
